@@ -5,7 +5,7 @@ hexschool1023
 
 ### 本週訓練菜單
 * 1.1 做當週關卡作業，吸收當週教授觀念
-* 1.3 將本週教授內容寫成部落格，以加深程式觀念
+* 1.3 將本週教授內容寫成[部落格](https://viccjiang.github.io/blog/)，以加深程式觀念
 * 1.4 自主學習新語法，並寫成筆記 
 * 2.1 熟悉三個編輯器熱鍵，熱鍵中文表  [熱鍵中文表](https://github.com/hexschool/VSCode_Hotkey_Translation)
 * 2.2 幾乎全程使用 emmet 來開發  [emmet](https://docs.emmet.io/cheat-sheet/) 開發
