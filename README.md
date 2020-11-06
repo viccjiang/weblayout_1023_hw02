@@ -80,7 +80,6 @@ hexschool1023
 
 
 
-
 ### 本週小節
 * 主軸&交錯軸的觀念
 * flex 不要濫用
@@ -100,17 +99,6 @@ hexschool1023
 
 * [第二週-個人網站](https://viccjiang.github.io/weblayout_1023_hw02/)
 * [code review](https://github.com/viccjiang/weblayout_1023_hw02)
-
-
-
-
-### 第二週每日任務
-
-* [10/26](https://codepen.io/viccjiang/pen/oNLZzZP) 
-* [10/27](https://codepen.io/viccjiang/pen/MWepRGp) 
-* [10/28](https://codepen.io/viccjiang/pen/LYZjePN)
-* [10/29](https://codepen.io/viccjiang/pen/eYzVVbm)
-* [10/30](https://)
 
 
 ### 第二週小組任務 
